@@ -1,0 +1,2 @@
+# DialogEditor
+Unity，Dialog，XNode
