@@ -1,0 +1,7 @@
+C:\Users\YH-10100\RiderProjects\TestDemo\LitJsonPolymorphism\bin\Release\LitJsonPolymorphism.exe
+C:\Users\YH-10100\RiderProjects\TestDemo\LitJsonPolymorphism\bin\Release\LitJsonPolymorphism.pdb
+C:\Users\YH-10100\RiderProjects\TestDemo\LitJsonPolymorphism\obj\Release\LitJsonPolymorphism.csprojAssemblyReference.cache
+C:\Users\YH-10100\RiderProjects\TestDemo\LitJsonPolymorphism\obj\Release\LitJsonPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\YH-10100\RiderProjects\TestDemo\LitJsonPolymorphism\obj\Release\LitJsonPolymorphism.csproj.CopyComplete
+C:\Users\YH-10100\RiderProjects\TestDemo\LitJsonPolymorphism\obj\Release\LitJsonPolymorphism.exe
+C:\Users\YH-10100\RiderProjects\TestDemo\LitJsonPolymorphism\obj\Release\LitJsonPolymorphism.pdb

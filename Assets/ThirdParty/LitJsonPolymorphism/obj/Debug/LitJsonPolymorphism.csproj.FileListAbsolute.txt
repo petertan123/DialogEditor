@@ -1,0 +1,5 @@
+D:\Develop\Project\LitJsonPolymorphism\LitJsonPolymorphism\bin\Debug\LitJsonPolymorphism.exe
+D:\Develop\Project\LitJsonPolymorphism\LitJsonPolymorphism\bin\Debug\LitJsonPolymorphism.pdb
+D:\Develop\Project\LitJsonPolymorphism\LitJsonPolymorphism\obj\Debug\LitJsonPolymorphism.csproj.CoreCompileInputs.cache
+D:\Develop\Project\LitJsonPolymorphism\LitJsonPolymorphism\obj\Debug\LitJsonPolymorphism.exe
+D:\Develop\Project\LitJsonPolymorphism\LitJsonPolymorphism\obj\Debug\LitJsonPolymorphism.pdb
