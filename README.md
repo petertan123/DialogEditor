@@ -17,3 +17,7 @@ LitJson拓展思路参考
 ## 基于XNode的DialogEditor对话剧情编辑
 
 基于XNode实现，拓展了对应的Graph和结点，支持通过LitJson导出为Json，同时导出/读取类也已经设计完成，后续根据思路拓展即可
+
+制作例子：
+
+![image-20220421165623549](https://petertan-imgsubmit.oss-cn-guangzhou.aliyuncs.com/img/image-20220421165623549.png)
