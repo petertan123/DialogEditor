@@ -50,8 +50,7 @@ namespace ET
 
         public override object GetValue(NodePort port)
         {
-            //return this.NodeId;
-            return null;
+            return this.NodeId;
         }
         
 
