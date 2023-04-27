@@ -72,6 +72,7 @@
      <Compile Include="Assets\ThirdParty\LitJsonPolymorphism\JsonMapper.cs" />
      <Compile Include="Assets\ThirdParty\LitJsonPolymorphism\PolymorphismJsonAttribute.cs" />
      <Compile Include="Assets\ThirdParty\LitJsonPolymorphism\Program.cs" />
+     <Compile Include="Assets\ThirdParty\LitJsonPolymorphism\UnityTypeBinding.cs" />
      <None Include="Assets\ThirdParty\LitJsonPolymorphism\obj\Debug\ConsoleApplication1.csproj.FileListAbsolute.txt" />
      <None Include="Assets\ThirdParty\LitJsonPolymorphism\obj\Debug\LitJsonPolymorphism.csproj.FileListAbsolute.txt" />
      <None Include="Assets\ThirdParty\LitJsonPolymorphism\obj\Release\LitJsonPolymorphism.csproj.FileListAbsolute.txt" />

@@ -157,6 +157,7 @@ namespace LitJson
 
             RegisterBaseExporters ();
             RegisterBaseImporters ();
+            UnityTypeBindings.Register();
         }
         #endregion
 
